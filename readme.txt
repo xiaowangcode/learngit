@@ -1,2 +1,2 @@
-git is a great wall
+Git is a distributed version control system.
 git is free
